@@ -1,2 +1,3 @@
 # UP200423_DB2
-## Alumno
+## Daniel Garcia de Luna
+## Administracion de Base de Datos
